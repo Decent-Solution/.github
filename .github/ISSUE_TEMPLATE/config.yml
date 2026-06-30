@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Questions & Discussions
+    url: https://github.com/Decent-Solution/.github/discussions
+    about: Ask questions and discuss ideas with the community.
+  - name: 🏢 Commercial & Enterprise Enquiries
+    url: https://decentsolution.cloud
+    about: For consulting, AI, cloud, and managed-service enquiries.
+  - name: 🔒 Report a Security Vulnerability
+    url: https://github.com/Decent-Solution/.github/security/policy
+    about: Please report security issues privately — not as a public issue.
